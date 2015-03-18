@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Card Reader</string>
+    <string name="card_title">Title</string>
+    <string name="header_text">Header</string>
+    <string name="launch">launch</string>
+
+</resources>
